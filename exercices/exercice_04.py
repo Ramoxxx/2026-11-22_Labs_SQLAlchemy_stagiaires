@@ -1,5 +1,5 @@
 from sqlalchemy import MetaData, Table, Column, Integer, String
-from exercices.db import engine
+from db import engine
 
 metadata = MetaData()
 
